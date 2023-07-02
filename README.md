@@ -1,9 +1,11 @@
 # IDiscovery
+#Tools
+Android Studio-Java
 Evaluation of Event Planner App 
  
 The Event Planner App provides users with an easy-to-use interface to create, store, and manage their events. Overall, the app has several strengths, including its user-friendly interface, functional features, and efficient navigation. However, there are also areas for improvement in terms of human-computer interaction, security, maintainability, and screen size adaptability. 
  
-Human-Computer Interaction: 
+Human-Computer Interaction:
 The app's user interface is straightforward, allowing users to easily navigate the app and create events. However, there is room for improvement in terms of interaction design, such as providing more feedback to users when they complete tasks or enter data. Additionally, there is a need for more graphical elements in the app's interface to enhance the user experience. 
  
 Security: 
